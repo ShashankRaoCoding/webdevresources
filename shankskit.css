@@ -37,6 +37,14 @@ button {
     color: #FFFFFF;
 }
 
+a { 
+  background-color: rgb(21,21,21); 
+  padding: 2%; 
+  text-decoration: None; 
+  color: white; 
+  border-radius: 10px; 
+} 
+
 div {
     justify-content: center;
     padding: 10%;
